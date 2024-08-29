@@ -1,0 +1,15 @@
+.comDiv{
+    min-width: 170px !important;
+}
+
+.dealDiv::-webkit-scrollbar{
+    display:none;
+}
+
+.tyreImg{
+    max-width: 110%;
+    position: relative;
+    top: 35%;
+    left: 35%;
+}
+  

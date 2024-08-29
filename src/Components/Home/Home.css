@@ -1,0 +1,36 @@
+.imgCar{
+    height:100%;
+    width:100%;
+}
+
+.carImg1{
+    width: 35%;
+}
+
+.carImg2{
+    width: 30%;
+}
+
+.carImg3{
+    position: absolute;
+    bottom:0;
+    width: 60%;
+}
+
+.carTxt1{
+    font-size:40px;
+    font-family: cursive;
+}
+
+.carTxt3{
+    font-size:25px;
+    font-family: cursive;
+}
+.carTxt2{
+    font-size:15px;
+    font-family: cursive;
+}
+
+.subText{
+    font-family:cursive;
+}

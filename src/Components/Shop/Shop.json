@@ -1,0 +1,54 @@
+{
+    "service":[
+        {
+            "logo": "src/assets/wheelbalance.webp",
+            "name": "Wheel Balancing"
+        },
+        {
+            "logo": "src/assets/wheel-alignment.webp",
+            "name": "Wheel Alignment"
+        }
+    ],
+    "companies" : [
+        {
+            "logo": "src/assets/apollo.png",
+            "name": "Apollo"
+        },
+        {
+            "logo": "src/assets/bslogo.webp",
+            "name": "Bridgestone"
+        },
+        {
+            "logo": "src/assets/ceat.png",
+            "name": "CEAT"
+        },
+        {
+            "logo": "src/assets/Continental-Logo.jpg",
+            "name": "Continental"
+        },
+        {
+            "logo": "src/assets/Goodyear-Logo.png",
+            "name": "Goodyear"
+        },
+        {
+            "logo": "src/assets/hankook.png",
+            "name": "Hankook"
+        },
+        {
+            "logo": "src/assets/jktyre.png",
+            "name": "JKTyre"
+        },
+        {
+            "logo": "src/assets/Michelin-logo.webp",
+            "name": "Michelin"
+        },
+        {
+            "logo": "src/assets/MRF-Logo.png",
+            "name": "MRF"
+        },
+        {
+            "logo": "src/assets/Pirelli-logo.png",
+            "name": "Pirelli"
+        }
+    ]
+}
